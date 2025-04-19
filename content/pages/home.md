@@ -30,11 +30,11 @@ This framework presents a comprehensive approach to reclaiming agency in your di
 
 Start with the domain most relevant to your immediate needs, or explore the interconnections between all five pillars of digital sovereignty:
 
-- [Financial Sovereignty](/financial-sovereignty)
-- [Data Sovereignty](/data-sovereignty)
-- [Communication Sovereignty](/communication-sovereignty)
-- [Computational Sovereignty](/computational-sovereignty)
-- [Material Sovereignty](/material-sovereignty)
+- [Financial Sovereignty](/posts/financial-sovereignty)
+- [Data Sovereignty](/posts/data-sovereignty)
+- [Communication Sovereignty](/posts/communication-sovereignty)
+- [Computational Sovereignty](/posts/computational-sovereignty)
+- [Material Sovereignty](/posts/material-sovereignty)
 
 ## Research Foundation
 
