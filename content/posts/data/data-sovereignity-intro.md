@@ -36,35 +36,25 @@ No data brokers. No surprise policy changes. Just your stuff, under your control
 
 ### For Individuals
 
-#### Personal Cloud Storage:
-Nextcloud, Seafile, or Syncthing for file sync and sharing.
+#### Personal Cloud Storage: Nextcloud, Seafile, or Syncthing for file sync and sharing.
 
-#### Calendar & Contacts Sync:
-Nextcloud + DAVx5 (Android) or EteSync for encrypted syncing.
+#### Calendar & Contacts Sync: Nextcloud + DAVx5 (Android) or EteSync for encrypted syncing.
 
-#### Password Management:
-Self-hosted Bitwarden via Vaultwarden, or KeePass + cloud sync with strong encryption.
+#### Password Management: Self-hosted Bitwarden via Vaultwarden, or KeePass + cloud sync with strong encryption.
 
-#### Email Self-Hosting:
-Advanced but possible. Use Mailcow, Mail-in-a-Box, or Maddy. Consider MX route hardening and spam resilience.
+#### Email Self-Hosting: Advanced but possible. Use Mailcow, Mail-in-a-Box, or Maddy. Consider MX route hardening and spam resilience.
 
-#### Media Servers:
-Jellyfin (open-source Plex alternative), Navidrome (music streaming), and Audiobookshelf for audiobook lovers.
+#### Media Servers: Jellyfin (open-source Plex alternative), Navidrome (music streaming), and Audiobookshelf for audiobook lovers.
 
-#### Open-Source OS for Personal Devices:
+#### Open-Source OS for Personal Devices: 
+    Desktop: Ubuntu, Debian, Pop!_OS, or Fedora.
+    Mobile: GrapheneOS (Pixel), LineageOS (wide support), or /e/OS (de-Googled Android).
 
-Desktop: Ubuntu, Debian, Pop!_OS, or Fedora.
-
-Mobile: GrapheneOS (Pixel), LineageOS (wide support), or /e/OS (de-Googled Android).
-
-#### Home Automation:
-Home Assistant for smart home management, with MQTT for sensor integration and local-first control.
+#### Home Automation: Home Assistant for smart home management, with MQTT for sensor integration and local-first control.
 
 
 🛡️ Plus Features
-#### Redundancy & High Availability:
-Use RAID (for local redundancy), rsync + cron jobs for scheduled mirroring, and optionally distribute backups across trusted nodes (like with Tailscale or ZeroTier).
+#### Redundancy & High Availability: Use RAID (for local redundancy), rsync + cron jobs for scheduled mirroring, and optionally distribute backups across trusted nodes (like with Tailscale or ZeroTier).
 
-#### Cross-Device Synchronization:
-Keep all your devices in sync using Nextcloud or Syncthing, encrypted vaults for key data, and WebDAV/CALDAV support for apps.
+#### Cross-Device Synchronization: Keep all your devices in sync using Nextcloud or Syncthing, encrypted vaults for key data, and WebDAV/CALDAV support for apps.
 
